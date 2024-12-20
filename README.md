@@ -17,9 +17,6 @@ The project uses **Random Forest Regression**, a popular machine learning algori
 
 The model predicts landslide risks by analyzing historical data, including:
 - Rainfall data
-- Soil moisture levels
-- Temperature variations
-- Geographical terrain and elevation data
 
 Using this data, the model can predict the likelihood of a landslide occurring in specific areas. The goal is to help mitigate the damage caused by landslides and provide real-time alerts to local authorities.
 
@@ -32,10 +29,3 @@ To run the project on your local machine, follow the steps below:
 - Python 3.x
 - Jupyter Notebook (optional but recommended for running code interactively)
 - Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `seaborn`, etc.
-
-### Install Dependencies
-
-Clone the repository:
-```bash
-git clone https://github.com/ARVIND-VB-123/Kerala-Landslide-Prediction.git
-cd Kerala-Landslide-Prediction
